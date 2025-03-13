@@ -1,0 +1,7 @@
+[2024-03-12 10:15:32] INFO: Server started successfully.
+[2024-03-12 10:16:45] WARNING: High memory usage detected.
+[2024-03-12 10:17:01] ERROR: Database connection failed!
+[2024-03-12 10:18:10] INFO: User admin logged in.
+[2024-03-12 10:19:32] ERROR: File not found - /var/data/config.json
+[2024-03-12 10:20:15] INFO: Scheduled backup completed.
+[2025-03-12 12:34:56] ERROR: Disk is almost full!
